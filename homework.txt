@@ -1,0 +1,13 @@
+---------------------HW----------------------------------------
+0. hey There If you get to this project is that you can view the work given too.
+_________________________________________Q_Tasks_Day2_________
+1. enter an empty folder in VSCODE
+2. use commands learnt and create a simple html and css file together and onnect them 
+3. build, code and run a simple html webpage with tags like div,p,span or headers to see changes
+4. right click on code and open it with live server to check output on local machine
+5. if styles are now well applied , 
+6. push your codes to github (using commands we've learnt so far).
+7!(!!! make sure if its forst time we use git init to initialize empty repository(folder/project))
+8!(!! and after commiting it you need to got to publish branch not git push if its forst time)
+9. then after go to browser and check your github if new project is created and then navigate to settings/pages/ and then deploy it live using branch where you are
+10. after few seconds copy the link and give it to me. via whatsapp.
