@@ -2,7 +2,7 @@
 0. hey There If you get to this project is that you can view the work given too.
 _________________________________________Q_Tasks_Day2_________
 1. enter an empty folder in VSCODE
-2. use commands learnt and create a simple html and css file together and onnect them 
+2. use commands learnt and create a simple html and css file together and connect them 
 3. build, code and run a simple html webpage with tags like div,p,span or headers to see changes
 4. right click on code and open it with live server to check output on local machine
 5. if styles are now well applied , 
